@@ -1,0 +1,9 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Force LF for certain files (optional, recommended for code)
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
