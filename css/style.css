@@ -204,7 +204,7 @@ h1, h2, h3, h4, h5, h6 {
           outline: none;
           text-decoration: none; }
       #colorlib-main-nav ul li.active a {
-        color: #CA82F8; }
+        color: black; }
   #colorlib-main-nav .form-group {
     margin-bottom: 40px;
     position: relative;
@@ -545,20 +545,20 @@ header {
   animation: loading-2 1.5s linear forwards 1.8s; }
 
 .progress.yellow .progress-bar {
-  border-color: #fdba04; }
+  border-color: #b39543; }
 
 .progress.yellow .progress-value {
-  color: #fdba04; }
+  color: #b39543; }
 
 .progress.yellow .progress-left .progress-bar {
   -webkit-animation: loading-3 1s linear forwards 1.8s;
   animation: loading-3 1s linear forwards 1.8s; }
 
 .progress.pink .progress-bar {
-  border-color: #ed687c; }
+  border-color: #049dff; }
 
 .progress.pink .progress-value {
-  color: #ed687c; }
+  color: #049dff; }
 
 .progress.pink .progress-left .progress-bar {
   -webkit-animation: loading-4 0.4s linear forwards 1.8s;
@@ -898,7 +898,7 @@ header {
       position: absolute;
       top: -80px;
       left: 20px;
-      background: #FFE9E3;
+      background: white;
       color: #000;
       padding: 20px 10px;
       font-size: 12px;
@@ -992,8 +992,8 @@ header {
   color: #fff;
   border: 2px solid #CA82F8; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #d49af9 !important;
-    border-color: #d49af9 !important; }
+    background: #000000 !important;
+    border-color: #000000 !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
