@@ -16,7 +16,7 @@ This repository contains the source for the personal portfolio website of **Anil
 
 ## Built With
 
-* HTML5, CSS3, Bootstrap
+* HTML5, CSS3, Bootstrap ,SCSS
 * JavaScript (vanilla + jQuery)
 * Responsive design principles
 * GitHub Pages for hosting
